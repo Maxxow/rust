@@ -1,0 +1,9 @@
+# Ignorar artefactos de compilación de Rust
+target/
+**/*.rs.bk
+
+# Si usas VS Code, a veces crea carpeta de config
+.vscode/
+
+# Archivos de sistema (Mac/Linux)
+.DS_Store
