@@ -4,8 +4,8 @@ Este repositorio contiene mis avances y prácticas aprendiendo el lenguaje de pr
 
 ## 📚 Tabla de Contenido
 
-- [Lección 1: Hola Mundo y Entorno](./01_hola_mundo)
-- [Lección 2: Variables y Funciones](./02_variables)
+- [Lección 1: Hola Mundo y Entorno](./Hi_world)
+- [Lección 2: Variables y Funciones](./Data_Type)
 
 ---
 
