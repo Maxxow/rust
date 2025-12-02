@@ -1,9 +1,14 @@
-# Ignorar artefactos de compilación de Rust
+# 1. Lo más importante: Ignorar la carpeta de compilación
 target/
-**/*.rs.bk
 
-# Si usas VS Code, a veces crea carpeta de config
+# 2. Archivos de respaldo de editores (por si acaso)
+**/*.rs.bk
+*.swp
+
+# 3. Configuración local de VS Code (opcional, pero recomendado no subirlo)
 .vscode/
 
-# Archivos de sistema (Mac/Linux)
+# 4. Archivos de sistema operativo (Mac/Windows)
 .DS_Store
+Thumbs.db
+*~
