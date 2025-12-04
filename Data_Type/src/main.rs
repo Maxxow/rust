@@ -27,8 +27,8 @@ fn main() {
 }
 
 // Aqui vamos a declarar una funcion para poder llamarla en la principal
-fn calcular_riesgo(cantidad_vulns: i32){
+fn calcular_riesgo(cantidad_vulns: i32) -> i32{
     let factor_riesgo = 2;
 
-    cantidad_vulns * factor_riesgo;
+    cantidad_vulns * factor_riesgo      // Estudiar conceptos de como el ";" afecta a los resultados void
 }
