@@ -1,23 +1,3 @@
-# 🦀 Curso de Rust para Ciberseguridad
+# 🦀 Curso de Rust desde 0 para repasar conceptos
 
-Este repositorio contiene mis avances y prácticas aprendiendo el lenguaje de programación Rust, enfocado a la creación de herramientas de seguridad y APIs web.
-
-## 📚 Tabla de Contenido
-
-- [Lección 1: Hola Mundo y Entorno](./Hi_world)
-- [Lección 2: Variables y Funciones](./Data_Type)
-
----
-
-## 📝 Bitácora de Aprendizaje
-
-### Lección 1: Primeros pasos
-Aprendí a instalar Rust con `rustup` y usar `cargo`.
-- **Comando clave:** `cargo run` compila y ejecuta el programa.
-- **Concepto:** Rust asegura la memoria sin Garbage Collector.
-
-### Lección 2: Variables
-Las variables son inmutables por defecto.
-```rust
-let x = 5; // Inmutable
-let mut y = 10; // Mutable
+En este repositorio estaran mis archivos a lo largo que dure el curso
